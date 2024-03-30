@@ -23,13 +23,13 @@ let products = [
     {
         id: 2,
         name: '20 Great Ball',
-        image: 'greatball.PNG',
+        image: 'greatball.png',
         price: 200
     },
     {
         id: 3,
         name: '15 Ultra Ball',
-        image: 'ultraball.PNG',
+        image: 'ultraball.png',
         price: 400
     },
     {
@@ -41,49 +41,49 @@ let products = [
     {
         id: 5,
         name: '30 Potion',
-        image: 'potion.PNG',
+        image: 'potion.png',
         price: 150
     },
     {
         id: 6,
         name: '15 Super Potion',
-        image: 'superpotion.PNG',
+        image: 'superpotion.png',
         price: 150
     },
     {
         id: 7,
         name: '10 Hyper Potion',
-        image: 'hyperpotion.PNG',
+        image: 'hyperpotion.png',
         price: 250
     },
     {
         id: 8,
         name: '5 Max Potion',
-        image: 'maxpotion.PNG',
+        image: 'maxpotion.png',
         price: 300
     },
     {
         id: 9,
         name: '5 Revive',
-        image: 'revive.PNG',
+        image: 'revive.png',
         price: 150
     },
     {
         id: 10,
         name: '3 Max Revive',
-        image: 'maxrevive.PNG',
+        image: 'maxrevive.png',
         price: 200
     },
     {
         id: 11,
         name: '20 Gift',
-        image: 'gift.PNG',
+        image: 'gift.png',
         price: 150
     },
     {
         id: 12,
         name: '10 Sponsored Gift',
-        image: 'sponsor.PNG',
+        image: 'sponsor.png',
         price: 250
     },
     
