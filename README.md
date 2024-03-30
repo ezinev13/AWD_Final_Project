@@ -1,2 +1,2 @@
 # AWD_Final_Project
-ey forda pokemon
+INDEX.html IS THE HOMEPAGE
